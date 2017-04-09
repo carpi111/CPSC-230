@@ -1,0 +1,5 @@
+This is a test text file.
+Use this file when running Letter_Frequency.py.
+There are just a bunch of words in this file.
+Hopefully this will make the results more even.
+I will add a Z to make it fair.
